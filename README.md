@@ -2,12 +2,11 @@
 
 ## Sales Report :
 
-
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[global customer performance report](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Global%20Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -24,17 +23,13 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets%20Year.pdf)_
 
-   **3.** Create Profit and Loss (P&L) reports based on _[Global Customer Performance Report.pdf](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Global%20Customer%20Performance%20Report.pdf)_
+   **3.** Create Profit and Loss (P&L) reports based on _[Top 10 Products in Revneue](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Top%2010%20Products%20in%20Revneue.pdf)_
 
-   **4.** Create Profit and Loss (P&L) reports based on _[Market Performance vs Target.pdf](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
+   **4.** Create Profit and Loss (P&L) reports based on _[Top 5 Countries 2021 Sales](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Top%205%20Country%202021%20Sales.pdf)_
 
-   **5.** Create Profit and Loss (P&L) reports based on _[Top 10 Products in Revneue](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Top%2010%20Products%20in%20Revneue.pdf)_
+   **5.** Create Profit and Loss (P&L) reports based on _[Top 5 Products in Quantity](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Top%205%20products%20in%20Quantity.pdf)_
 
-   **6.** Create Profit and Loss (P&L) reports based on _[Top 5 Countries 2021 Sales](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Top%205%20Country%202021%20Sales.pdf)_
-
-   **7.** Create Profit and Loss (P&L) reports based on _[Top 5 Products in Quantity](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Top%205%20products%20in%20Quantity.pdf)_
-
-   **8.** Create Profit and Loss (P&L) reports based on _[Bottom 5 Products in Quantity](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Bottom%205%20Products%20in%20Quantity.pdf)_
+   **6.** Create Profit and Loss (P&L) reports based on _[Bottom 5 Products in Quantity](https://github.com/kunalsaurabh/Excel-Project-Sales-Analytics/blob/main/Bottom%205%20Products%20in%20Quantity.pdf)_
 
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
@@ -51,9 +46,15 @@
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
+- [x]	Expertise in SQL for database querying and data manipulation.
+- [x]	Experience with data visualization tools like Power BI
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Designing user centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Ability to collaborate effectively with cross-functional teams.
+- [x]	 Strong analytical and problem-solving skills.
+- [x]	Commitment to continuous learning and professional development.
+- [x]	Ability to manage multiple projects and meet deadlines.
+- [x]	Proactive approach to identifying and resolving issues.
